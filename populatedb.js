@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const User = require('./models/User');
 
 //URI 
-const db = 'mongodb+srv://hello-database:hello-database1@cluster0.gdicc.mongodb.net/dbname?retryWrites=true&w=majority'
+const db = 'mongodb+srv://hellodb:database@cluster0.gdicc.mongodb.net/hellodb?retryWrites=true&w=majority'
 
 //const db = 'mongodb://localhost/hellodb';
 
